@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "selectedOne": "2",
+      "selectedTwo": "2",
+      "selectedThree": "2",
+      "selectedFore": "3",
+      "selectedFive": "3",
+      "title": "sss",
+      "body": "sss",
+      "id": 10
+    },
+    {
+      "selectedOne": "1",
+      "selectedTwo": "2",
+      "selectedThree": "1",
+      "selectedFore": "1",
+      "selectedFive": "2",
+      "title": "s",
+      "body": "s",
+      "id": 11
+    },
+    {
+      "selectedOne": "2",
+      "selectedTwo": "2",
+      "selectedThree": "2",
+      "selectedFore": "2",
+      "selectedFive": "4",
+      "title": "вв",
+      "body": "вв",
+      "id": 12
+    }
+  ]
+}

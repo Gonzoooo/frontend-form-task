@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "json-server": "^0.17.1",
+    "prettier": "2.7.1"
+  },
+  "scripts": {
+    "server": "json-server --watch public/db.json"
+  }
+}
